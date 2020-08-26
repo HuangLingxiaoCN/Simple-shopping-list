@@ -1,6 +1,6 @@
 # Simple shopping-list challenge
 
-Create a simple shopping list with JavaScript DOM. 
+A simple shopping list with basic JavaScript and DOMs.
 Reference: By Andrei Neagoie, Udemy.com, The Complete Web Developer in 2020: Zero to Mastery, Section 12.
 
 Update: Aug 23rd, 2020
